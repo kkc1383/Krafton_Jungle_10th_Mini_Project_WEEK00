@@ -1,4 +1,4 @@
-# 🛠️ KRAFTON Jungle Week00 Mini Project  
+# 🛠️ Krafton_Jungle_10th_Mini_Project_WEEK00
 
 ## 🙋 Contributors
 
